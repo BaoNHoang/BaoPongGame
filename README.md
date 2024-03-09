@@ -5,7 +5,7 @@ A simple build of a ping pong game that increases speed as the ball bounces usin
 
 ## 💻 How to play?
 
-This is a two player game where player one uses "w, a, s, d" keys and player two uses the arrow keys
+This is a two player game where player one uses w, a, s, d keys and player two uses the arrow keys
 
 ## 👀 Future plans?
 
